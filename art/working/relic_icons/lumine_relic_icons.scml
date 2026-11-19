@@ -1,0 +1,202 @@
+<?xml version='1.0' encoding='utf-8'?>
+<spriter_data scml_version="1.0" generator="BrashMonkey Spriter" generator_version="b5">
+  <folder id="0" name="lumine_relic_icons">
+    <file id="0" name="wilson_1.png" width="128" height="128" pivot_x=".5" pivot_y=".5" />
+    <file id="1" name="wilson_2.png" width="128" height="128" pivot_x=".5" pivot_y=".5" />
+    <file id="2" name="wilson_3.png" width="128" height="128" pivot_x=".5" pivot_y=".5" />
+    <file id="3" name="wilson_4.png" width="128" height="128" pivot_x=".5" pivot_y=".5" />
+    <file id="4" name="wilson_5.png" width="128" height="128" pivot_x=".5" pivot_y=".5" />
+    <file id="5" name="wickerbottom_1.png" width="128" height="128" pivot_x=".5" pivot_y=".5" />
+    <file id="6" name="wickerbottom_2.png" width="128" height="128" pivot_x=".5" pivot_y=".5" />
+    <file id="7" name="wickerbottom_3.png" width="128" height="128" pivot_x=".5" pivot_y=".5" />
+    <file id="8" name="wickerbottom_4.png" width="128" height="128" pivot_x=".5" pivot_y=".5" />
+    <file id="9" name="wickerbottom_5.png" width="128" height="128" pivot_x=".5" pivot_y=".5" />
+    <file id="10" name="warly_1.png" width="128" height="128" pivot_x=".5" pivot_y=".5" />
+    <file id="11" name="warly_2.png" width="128" height="128" pivot_x=".5" pivot_y=".5" />
+    <file id="12" name="warly_3.png" width="128" height="128" pivot_x=".5" pivot_y=".5" />
+    <file id="13" name="warly_4.png" width="128" height="128" pivot_x=".5" pivot_y=".5" />
+    <file id="14" name="warly_5.png" width="128" height="128" pivot_x=".5" pivot_y=".5" />
+  </folder>
+  <entity id="0" name="lumine_relic_icons">
+    <animation id="0" name="wilson_1" length="1000" looping="true">
+      <mainline>
+        <key id="0" time="0">
+          <object_ref id="0" timeline="0" key="0" z_index="0" />
+        </key>
+      </mainline>
+      <timeline id="0" name="icon" object_type="sprite">
+        <key id="0" time="0">
+          <object folder="0" file="0" x="0" y="0" angle="0" scale_x="1" scale_y="1" />
+        </key>
+      </timeline>
+    </animation>
+    <animation id="1" name="wilson_2" length="1000" looping="true">
+      <mainline>
+        <key id="0" time="0">
+          <object_ref id="0" timeline="0" key="0" z_index="0" />
+        </key>
+      </mainline>
+      <timeline id="0" name="icon" object_type="sprite">
+        <key id="0" time="0">
+          <object folder="0" file="1" x="0" y="0" angle="0" scale_x="1" scale_y="1" />
+        </key>
+      </timeline>
+    </animation>
+    <animation id="2" name="wilson_3" length="1000" looping="true">
+      <mainline>
+        <key id="0" time="0">
+          <object_ref id="0" timeline="0" key="0" z_index="0" />
+        </key>
+      </mainline>
+      <timeline id="0" name="icon" object_type="sprite">
+        <key id="0" time="0">
+          <object folder="0" file="2" x="0" y="0" angle="0" scale_x="1" scale_y="1" />
+        </key>
+      </timeline>
+    </animation>
+    <animation id="3" name="wilson_4" length="1000" looping="true">
+      <mainline>
+        <key id="0" time="0">
+          <object_ref id="0" timeline="0" key="0" z_index="0" />
+        </key>
+      </mainline>
+      <timeline id="0" name="icon" object_type="sprite">
+        <key id="0" time="0">
+          <object folder="0" file="3" x="0" y="0" angle="0" scale_x="1" scale_y="1" />
+        </key>
+      </timeline>
+    </animation>
+    <animation id="4" name="wilson_5" length="1000" looping="true">
+      <mainline>
+        <key id="0" time="0">
+          <object_ref id="0" timeline="0" key="0" z_index="0" />
+        </key>
+      </mainline>
+      <timeline id="0" name="icon" object_type="sprite">
+        <key id="0" time="0">
+          <object folder="0" file="4" x="0" y="0" angle="0" scale_x="1" scale_y="1" />
+        </key>
+      </timeline>
+    </animation>
+    <animation id="5" name="wickerbottom_1" length="1000" looping="true">
+      <mainline>
+        <key id="0" time="0">
+          <object_ref id="0" timeline="0" key="0" z_index="0" />
+        </key>
+      </mainline>
+      <timeline id="0" name="icon" object_type="sprite">
+        <key id="0" time="0">
+          <object folder="0" file="5" x="0" y="0" angle="0" scale_x="1" scale_y="1" />
+        </key>
+      </timeline>
+    </animation>
+    <animation id="6" name="wickerbottom_2" length="1000" looping="true">
+      <mainline>
+        <key id="0" time="0">
+          <object_ref id="0" timeline="0" key="0" z_index="0" />
+        </key>
+      </mainline>
+      <timeline id="0" name="icon" object_type="sprite">
+        <key id="0" time="0">
+          <object folder="0" file="6" x="0" y="0" angle="0" scale_x="1" scale_y="1" />
+        </key>
+      </timeline>
+    </animation>
+    <animation id="7" name="wickerbottom_3" length="1000" looping="true">
+      <mainline>
+        <key id="0" time="0">
+          <object_ref id="0" timeline="0" key="0" z_index="0" />
+        </key>
+      </mainline>
+      <timeline id="0" name="icon" object_type="sprite">
+        <key id="0" time="0">
+          <object folder="0" file="7" x="0" y="0" angle="0" scale_x="1" scale_y="1" />
+        </key>
+      </timeline>
+    </animation>
+    <animation id="8" name="wickerbottom_4" length="1000" looping="true">
+      <mainline>
+        <key id="0" time="0">
+          <object_ref id="0" timeline="0" key="0" z_index="0" />
+        </key>
+      </mainline>
+      <timeline id="0" name="icon" object_type="sprite">
+        <key id="0" time="0">
+          <object folder="0" file="8" x="0" y="0" angle="0" scale_x="1" scale_y="1" />
+        </key>
+      </timeline>
+    </animation>
+    <animation id="9" name="wickerbottom_5" length="1000" looping="true">
+      <mainline>
+        <key id="0" time="0">
+          <object_ref id="0" timeline="0" key="0" z_index="0" />
+        </key>
+      </mainline>
+      <timeline id="0" name="icon" object_type="sprite">
+        <key id="0" time="0">
+          <object folder="0" file="9" x="0" y="0" angle="0" scale_x="1" scale_y="1" />
+        </key>
+      </timeline>
+    </animation>
+    <animation id="10" name="warly_1" length="1000" looping="true">
+      <mainline>
+        <key id="0" time="0">
+          <object_ref id="0" timeline="0" key="0" z_index="0" />
+        </key>
+      </mainline>
+      <timeline id="0" name="icon" object_type="sprite">
+        <key id="0" time="0">
+          <object folder="0" file="10" x="0" y="0" angle="0" scale_x="1" scale_y="1" />
+        </key>
+      </timeline>
+    </animation>
+    <animation id="11" name="warly_2" length="1000" looping="true">
+      <mainline>
+        <key id="0" time="0">
+          <object_ref id="0" timeline="0" key="0" z_index="0" />
+        </key>
+      </mainline>
+      <timeline id="0" name="icon" object_type="sprite">
+        <key id="0" time="0">
+          <object folder="0" file="11" x="0" y="0" angle="0" scale_x="1" scale_y="1" />
+        </key>
+      </timeline>
+    </animation>
+    <animation id="12" name="warly_3" length="1000" looping="true">
+      <mainline>
+        <key id="0" time="0">
+          <object_ref id="0" timeline="0" key="0" z_index="0" />
+        </key>
+      </mainline>
+      <timeline id="0" name="icon" object_type="sprite">
+        <key id="0" time="0">
+          <object folder="0" file="12" x="0" y="0" angle="0" scale_x="1" scale_y="1" />
+        </key>
+      </timeline>
+    </animation>
+    <animation id="13" name="warly_4" length="1000" looping="true">
+      <mainline>
+        <key id="0" time="0">
+          <object_ref id="0" timeline="0" key="0" z_index="0" />
+        </key>
+      </mainline>
+      <timeline id="0" name="icon" object_type="sprite">
+        <key id="0" time="0">
+          <object folder="0" file="13" x="0" y="0" angle="0" scale_x="1" scale_y="1" />
+        </key>
+      </timeline>
+    </animation>
+    <animation id="14" name="warly_5" length="1000" looping="true">
+      <mainline>
+        <key id="0" time="0">
+          <object_ref id="0" timeline="0" key="0" z_index="0" />
+        </key>
+      </mainline>
+      <timeline id="0" name="icon" object_type="sprite">
+        <key id="0" time="0">
+          <object folder="0" file="14" x="0" y="0" angle="0" scale_x="1" scale_y="1" />
+        </key>
+      </timeline>
+    </animation>
+  </entity>
+</spriter_data>

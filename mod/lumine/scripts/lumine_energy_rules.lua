@@ -1,0 +1,26 @@
+-- Shared by server mechanics and client HUD.
+return {
+    MAX_ENERGY = 100,
+    REGEN_PER_SECOND = 10 / 60,
+    RELIC_REGEN_PER_SECOND = 1 / 60,
+    ELECTRO = {
+        COMBAT_DURATION = 6,
+        COMBAT_REGEN_MULTIPLIER = 1.5,
+        INFUSION_DRAIN_PER_SECOND = 5.5,
+        INFUSION_INTERVAL = .25,
+        INFUSION_MAX_DURATION = 20,
+        BURST_DURATION = 5,
+        BURST_COOLDOWN = 12,
+        ORB_COST = 2,
+        ORB_DAMAGE = 12,
+        ORB_MAX_HITS = 5,
+        ORB_BOUNCE_RANGE = 12,
+    },
+    SKILL_COST = {wind_dash=20, wind_tornado=35, geo_shield=25, geo_field=40, dendro_root=15, dendro_field=30,
+        hydro_stream=12, hydro_bubble=35},
+    WING_TAKEOFF_WIND = 10,
+    WING_TAKEOFF_OTHER = 20,
+    WING_DRAIN_WIND = 2,
+    WING_DRAIN_OTHER = 4,
+    WING_OCEAN_MULTIPLIER = 4,
+}

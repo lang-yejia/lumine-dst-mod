@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<spriter_data scml_version="1.0" generator="BrashMonkey Spriter" generator_version="b5">
+  <folder id="0" name="alchemy_table">
+    <file id="0" name="alchemy_table/alchemy_table-0.png" width="384" height="384" pivot_x="0.5" pivot_y="0.06" />
+    <file id="1" name="alchemy_table/alchemy_table-1.png" width="384" height="384" pivot_x="0.5" pivot_y="0.06" />
+    <file id="2" name="alchemy_table/alchemy_table-2.png" width="384" height="384" pivot_x="0.5" pivot_y="0.06" />
+  </folder>
+  <entity id="0" name="alchemy_table">
+    <animation id="0" name="idle" length="1000" looping="true">
+      <mainline>
+        <key id="0" time="0">
+          <object_ref id="0" timeline="0" key="0" z_index="0" />
+        </key>
+      </mainline>
+      <timeline id="0" name="alchemy_table" object_type="sprite">
+        <key id="0" time="0">
+          <object folder="0" file="0" x="0" y="0" angle="0" scale_x="1" scale_y="1" />
+        </key>
+      </timeline>
+    </animation>
+    <animation id="1" name="proximity_loop" length="2100" looping="true">
+      <mainline>
+        <key id="0" time="0">
+          <object_ref id="0" timeline="0" key="0" z_index="0" />
+        </key>
+        <key id="1" time="700">
+          <object_ref id="0" timeline="0" key="1" z_index="0" />
+        </key>
+        <key id="2" time="1400">
+          <object_ref id="0" timeline="0" key="2" z_index="0" />
+        </key>
+      </mainline>
+      <timeline id="0" name="alchemy_table" object_type="sprite">
+        <key id="0" time="0">
+          <object folder="0" file="1" x="0" y="0" angle="0" scale_x="1" scale_y="1" />
+        </key>
+        <key id="1" time="700">
+          <object folder="0" file="2" x="0" y="0" angle="0" scale_x="1" scale_y="1" />
+        </key>
+        <key id="2" time="1400">
+          <object folder="0" file="1" x="0" y="0" angle="0" scale_x="1" scale_y="1" />
+        </key>
+      </timeline>
+    </animation>
+    <animation id="2" name="use" length="500" looping="false">
+      <mainline>
+        <key id="0" time="0">
+          <object_ref id="0" timeline="0" key="0" z_index="0" />
+        </key>
+        <key id="1" time="350">
+          <object_ref id="0" timeline="0" key="1" z_index="0" />
+        </key>
+      </mainline>
+      <timeline id="0" name="alchemy_table" object_type="sprite">
+        <key id="0" time="0">
+          <object folder="0" file="1" x="0" y="0" angle="0" scale_x="1" scale_y="1" />
+        </key>
+        <key id="1" time="350">
+          <object folder="0" file="0" x="0" y="0" angle="0" scale_x="1" scale_y="1" />
+        </key>
+      </timeline>
+    </animation>
+  </entity>
+</spriter_data>

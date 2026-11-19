@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<spriter_data scml_version="1.0" generator="BrashMonkey Spriter" generator_version="b5">
+  <folder id="0" name="torso">
+    <file id="0" name="torso/torso-0.png" width="137" height="131" pivot_x="0.518248" pivot_y="0.419847" />
+    <file id="1" name="torso/torso-1.png" width="143" height="119" pivot_x="0.482517" pivot_y="0.403361" />
+    <file id="2" name="torso/torso-2.png" width="124" height="128" pivot_x="0.637097" pivot_y="0.382813" />
+    <file id="3" name="torso/torso-3.png" width="139" height="109" pivot_x="0.705036" pivot_y="0.394495" />
+    <file id="4" name="torso/torso-4.png" width="142" height="136" pivot_x="0.521127" pivot_y="0.426471" />
+    <file id="5" name="torso/torso-5.png" width="150" height="135" pivot_x="0.466667" pivot_y="0.407407" />
+    <file id="6" name="torso/torso-6.png" width="142" height="112" pivot_x="0.549296" pivot_y="0.4375" />
+    <file id="7" name="torso/torso-7.png" width="137" height="143" pivot_x="0.547445" pivot_y="0.41958" />
+    <file id="8" name="torso/torso-8.png" width="157" height="127" pivot_x="0.535032" pivot_y="0.385827" />
+    <file id="9" name="torso/torso-9.png" width="184" height="54" pivot_x="0.63587" pivot_y="0.611111" />
+    <file id="10" name="torso/torso-10.png" width="136" height="134" pivot_x="0.514706" pivot_y="0.425373" />
+  </folder>
+  <folder id="1" name="item">
+    <file id="0" name="item/lumine_dawn_body-0.png" width="128" height="128" pivot_x="0.5" pivot_y="0.5" />
+  </folder>
+  <entity id="0" name="lumine_dawn_body">
+    <animation id="0" name="idle" length="100" looping="true">
+      <mainline>
+        <key id="0" time="0">
+          <object_ref id="0" timeline="0" key="0" z_index="0" />
+        </key>
+      </mainline>
+      <timeline id="0" name="item" object_type="sprite">
+        <key id="0" time="0">
+          <object folder="1" file="0" x="0" y="0" angle="0" scale_x="1" scale_y="1" />
+        </key>
+      </timeline>
+    </animation>
+    <animation id="1" name="swap" length="1100" looping="true">
+      <mainline>
+        <key id="0" time="0">
+          <object_ref id="0" timeline="0" key="0" z_index="0" />
+        </key>
+        <key id="1" time="100">
+          <object_ref id="0" timeline="0" key="1" z_index="0" />
+        </key>
+        <key id="2" time="200">
+          <object_ref id="0" timeline="0" key="2" z_index="0" />
+        </key>
+        <key id="3" time="300">
+          <object_ref id="0" timeline="0" key="3" z_index="0" />
+        </key>
+        <key id="4" time="400">
+          <object_ref id="0" timeline="0" key="4" z_index="0" />
+        </key>
+        <key id="5" time="500">
+          <object_ref id="0" timeline="0" key="5" z_index="0" />
+        </key>
+        <key id="6" time="600">
+          <object_ref id="0" timeline="0" key="6" z_index="0" />
+        </key>
+        <key id="7" time="700">
+          <object_ref id="0" timeline="0" key="7" z_index="0" />
+        </key>
+        <key id="8" time="800">
+          <object_ref id="0" timeline="0" key="8" z_index="0" />
+        </key>
+        <key id="9" time="900">
+          <object_ref id="0" timeline="0" key="9" z_index="0" />
+        </key>
+        <key id="10" time="1000">
+          <object_ref id="0" timeline="0" key="10" z_index="0" />
+        </key>
+      </mainline>
+      <timeline id="0" name="torso" object_type="sprite">
+        <key id="0" time="0">
+          <object folder="0" file="0" x="0" y="0" angle="0" scale_x="1" scale_y="1" />
+        </key>
+        <key id="1" time="100">
+          <object folder="0" file="1" x="0" y="0" angle="0" scale_x="1" scale_y="1" />
+        </key>
+        <key id="2" time="200">
+          <object folder="0" file="2" x="0" y="0" angle="0" scale_x="1" scale_y="1" />
+        </key>
+        <key id="3" time="300">
+          <object folder="0" file="3" x="0" y="0" angle="0" scale_x="1" scale_y="1" />
+        </key>
+        <key id="4" time="400">
+          <object folder="0" file="4" x="0" y="0" angle="0" scale_x="1" scale_y="1" />
+        </key>
+        <key id="5" time="500">
+          <object folder="0" file="5" x="0" y="0" angle="0" scale_x="1" scale_y="1" />
+        </key>
+        <key id="6" time="600">
+          <object folder="0" file="6" x="0" y="0" angle="0" scale_x="1" scale_y="1" />
+        </key>
+        <key id="7" time="700">
+          <object folder="0" file="7" x="0" y="0" angle="0" scale_x="1" scale_y="1" />
+        </key>
+        <key id="8" time="800">
+          <object folder="0" file="8" x="0" y="0" angle="0" scale_x="1" scale_y="1" />
+        </key>
+        <key id="9" time="900">
+          <object folder="0" file="9" x="0" y="0" angle="0" scale_x="1" scale_y="1" />
+        </key>
+        <key id="10" time="1000">
+          <object folder="0" file="10" x="0" y="0" angle="0" scale_x="1" scale_y="1" />
+        </key>
+      </timeline>
+    </animation>
+  </entity>
+</spriter_data>

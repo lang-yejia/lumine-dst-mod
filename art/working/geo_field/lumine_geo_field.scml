@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='utf-8'?>
+<spriter_data scml_version="1.0" generator="BrashMonkey Spriter" generator_version="b5">
+  <folder id="0" name="lumine_geo_field">
+    <file id="0" name="lumine_geo_field/lumine_geo_field-00.png" width="384" height="384" pivot_x="0.5" pivot_y="0.5" />
+    <file id="1" name="lumine_geo_field/lumine_geo_field-01.png" width="384" height="384" pivot_x="0.5" pivot_y="0.5" />
+    <file id="2" name="lumine_geo_field/lumine_geo_field-02.png" width="384" height="384" pivot_x="0.5" pivot_y="0.5" />
+    <file id="3" name="lumine_geo_field/lumine_geo_field-03.png" width="384" height="384" pivot_x="0.5" pivot_y="0.5" />
+    <file id="4" name="lumine_geo_field/lumine_geo_field-04.png" width="384" height="384" pivot_x="0.5" pivot_y="0.5" />
+    <file id="5" name="lumine_geo_field/lumine_geo_field-05.png" width="384" height="384" pivot_x="0.5" pivot_y="0.5" />
+    <file id="6" name="lumine_geo_field/lumine_geo_field-06.png" width="384" height="384" pivot_x="0.5" pivot_y="0.5" />
+    <file id="7" name="lumine_geo_field/lumine_geo_field-07.png" width="384" height="384" pivot_x="0.5" pivot_y="0.5" />
+    <file id="8" name="lumine_geo_field/lumine_geo_field-08.png" width="384" height="384" pivot_x="0.5" pivot_y="0.5" />
+    <file id="9" name="lumine_geo_field/lumine_geo_field-09.png" width="384" height="384" pivot_x="0.5" pivot_y="0.5" />
+    <file id="10" name="lumine_geo_field/lumine_geo_field-10.png" width="384" height="384" pivot_x="0.5" pivot_y="0.5" />
+    <file id="11" name="lumine_geo_field/lumine_geo_field-11.png" width="384" height="384" pivot_x="0.5" pivot_y="0.5" />
+    <file id="12" name="lumine_geo_field/lumine_geo_field-12.png" width="384" height="384" pivot_x="0.5" pivot_y="0.5" />
+    <file id="13" name="lumine_geo_field/lumine_geo_field-13.png" width="384" height="384" pivot_x="0.5" pivot_y="0.5" />
+    <file id="14" name="lumine_geo_field/lumine_geo_field-14.png" width="384" height="384" pivot_x="0.5" pivot_y="0.5" />
+    <file id="15" name="lumine_geo_field/lumine_geo_field-15.png" width="384" height="384" pivot_x="0.5" pivot_y="0.5" />
+    <file id="16" name="lumine_geo_field/lumine_geo_field-16.png" width="384" height="384" pivot_x="0.5" pivot_y="0.5" />
+    <file id="17" name="lumine_geo_field/lumine_geo_field-17.png" width="384" height="384" pivot_x="0.5" pivot_y="0.5" />
+    <file id="18" name="lumine_geo_field/lumine_geo_field-18.png" width="384" height="384" pivot_x="0.5" pivot_y="0.5" />
+    <file id="19" name="lumine_geo_field/lumine_geo_field-19.png" width="384" height="384" pivot_x="0.5" pivot_y="0.5" />
+    <file id="20" name="lumine_geo_field/lumine_geo_field-20.png" width="384" height="384" pivot_x="0.5" pivot_y="0.5" />
+    <file id="21" name="lumine_geo_field/lumine_geo_field-21.png" width="384" height="384" pivot_x="0.5" pivot_y="0.5" />
+    <file id="22" name="lumine_geo_field/lumine_geo_field-22.png" width="384" height="384" pivot_x="0.5" pivot_y="0.5" />
+    <file id="23" name="lumine_geo_field/lumine_geo_field-23.png" width="384" height="384" pivot_x="0.5" pivot_y="0.5" />
+  </folder>
+  <entity id="0" name="lumine_geo_field">
+    <animation id="0" name="loop" length="2400" looping="true">
+      <mainline>
+        <key id="0" time="0">
+          <object_ref id="0" timeline="0" key="0" z_index="0" />
+        </key>
+        <key id="1" time="100">
+          <object_ref id="0" timeline="0" key="1" z_index="0" />
+        </key>
+        <key id="2" time="200">
+          <object_ref id="0" timeline="0" key="2" z_index="0" />
+        </key>
+        <key id="3" time="300">
+          <object_ref id="0" timeline="0" key="3" z_index="0" />
+        </key>
+        <key id="4" time="400">
+          <object_ref id="0" timeline="0" key="4" z_index="0" />
+        </key>
+        <key id="5" time="500">
+          <object_ref id="0" timeline="0" key="5" z_index="0" />
+        </key>
+        <key id="6" time="600">
+          <object_ref id="0" timeline="0" key="6" z_index="0" />
+        </key>
+        <key id="7" time="700">
+          <object_ref id="0" timeline="0" key="7" z_index="0" />
+        </key>
+        <key id="8" time="800">
+          <object_ref id="0" timeline="0" key="8" z_index="0" />
+        </key>
+        <key id="9" time="900">
+          <object_ref id="0" timeline="0" key="9" z_index="0" />
+        </key>
+        <key id="10" time="1000">
+          <object_ref id="0" timeline="0" key="10" z_index="0" />
+        </key>
+        <key id="11" time="1100">
+          <object_ref id="0" timeline="0" key="11" z_index="0" />
+        </key>
+        <key id="12" time="1200">
+          <object_ref id="0" timeline="0" key="12" z_index="0" />
+        </key>
+        <key id="13" time="1300">
+          <object_ref id="0" timeline="0" key="13" z_index="0" />
+        </key>
+        <key id="14" time="1400">
+          <object_ref id="0" timeline="0" key="14" z_index="0" />
+        </key>
+        <key id="15" time="1500">
+          <object_ref id="0" timeline="0" key="15" z_index="0" />
+        </key>
+        <key id="16" time="1600">
+          <object_ref id="0" timeline="0" key="16" z_index="0" />
+        </key>
+        <key id="17" time="1700">
+          <object_ref id="0" timeline="0" key="17" z_index="0" />
+        </key>
+        <key id="18" time="1800">
+          <object_ref id="0" timeline="0" key="18" z_index="0" />
+        </key>
+        <key id="19" time="1900">
+          <object_ref id="0" timeline="0" key="19" z_index="0" />
+        </key>
+        <key id="20" time="2000">
+          <object_ref id="0" timeline="0" key="20" z_index="0" />
+        </key>
+        <key id="21" time="2100">
+          <object_ref id="0" timeline="0" key="21" z_index="0" />
+        </key>
+        <key id="22" time="2200">
+          <object_ref id="0" timeline="0" key="22" z_index="0" />
+        </key>
+        <key id="23" time="2300">
+          <object_ref id="0" timeline="0" key="23" z_index="0" />
+        </key>
+      </mainline>
+      <timeline id="0" name="lumine_geo_field" object_type="sprite">
+        <key id="0" time="0">
+          <object folder="0" file="0" x="0" y="0" angle="0" scale_x="1" scale_y="1" />
+        </key>
+        <key id="1" time="100">
+          <object folder="0" file="1" x="0" y="0" angle="0" scale_x="1" scale_y="1" />
+        </key>
+        <key id="2" time="200">
+          <object folder="0" file="2" x="0" y="0" angle="0" scale_x="1" scale_y="1" />
+        </key>
+        <key id="3" time="300">
+          <object folder="0" file="3" x="0" y="0" angle="0" scale_x="1" scale_y="1" />
+        </key>
+        <key id="4" time="400">
+          <object folder="0" file="4" x="0" y="0" angle="0" scale_x="1" scale_y="1" />
+        </key>
+        <key id="5" time="500">
+          <object folder="0" file="5" x="0" y="0" angle="0" scale_x="1" scale_y="1" />
+        </key>
+        <key id="6" time="600">
+          <object folder="0" file="6" x="0" y="0" angle="0" scale_x="1" scale_y="1" />
+        </key>
+        <key id="7" time="700">
+          <object folder="0" file="7" x="0" y="0" angle="0" scale_x="1" scale_y="1" />
+        </key>
+        <key id="8" time="800">
+          <object folder="0" file="8" x="0" y="0" angle="0" scale_x="1" scale_y="1" />
+        </key>
+        <key id="9" time="900">
+          <object folder="0" file="9" x="0" y="0" angle="0" scale_x="1" scale_y="1" />
+        </key>
+        <key id="10" time="1000">
+          <object folder="0" file="10" x="0" y="0" angle="0" scale_x="1" scale_y="1" />
+        </key>
+        <key id="11" time="1100">
+          <object folder="0" file="11" x="0" y="0" angle="0" scale_x="1" scale_y="1" />
+        </key>
+        <key id="12" time="1200">
+          <object folder="0" file="12" x="0" y="0" angle="0" scale_x="1" scale_y="1" />
+        </key>
+        <key id="13" time="1300">
+          <object folder="0" file="13" x="0" y="0" angle="0" scale_x="1" scale_y="1" />
+        </key>
+        <key id="14" time="1400">
+          <object folder="0" file="14" x="0" y="0" angle="0" scale_x="1" scale_y="1" />
+        </key>
+        <key id="15" time="1500">
+          <object folder="0" file="15" x="0" y="0" angle="0" scale_x="1" scale_y="1" />
+        </key>
+        <key id="16" time="1600">
+          <object folder="0" file="16" x="0" y="0" angle="0" scale_x="1" scale_y="1" />
+        </key>
+        <key id="17" time="1700">
+          <object folder="0" file="17" x="0" y="0" angle="0" scale_x="1" scale_y="1" />
+        </key>
+        <key id="18" time="1800">
+          <object folder="0" file="18" x="0" y="0" angle="0" scale_x="1" scale_y="1" />
+        </key>
+        <key id="19" time="1900">
+          <object folder="0" file="19" x="0" y="0" angle="0" scale_x="1" scale_y="1" />
+        </key>
+        <key id="20" time="2000">
+          <object folder="0" file="20" x="0" y="0" angle="0" scale_x="1" scale_y="1" />
+        </key>
+        <key id="21" time="2100">
+          <object folder="0" file="21" x="0" y="0" angle="0" scale_x="1" scale_y="1" />
+        </key>
+        <key id="22" time="2200">
+          <object folder="0" file="22" x="0" y="0" angle="0" scale_x="1" scale_y="1" />
+        </key>
+        <key id="23" time="2300">
+          <object folder="0" file="23" x="0" y="0" angle="0" scale_x="1" scale_y="1" />
+        </key>
+      </timeline>
+    </animation>
+  </entity>
+</spriter_data>
